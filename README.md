@@ -9,3 +9,13 @@ This file includes:
 - Simple regression analyses
 - T-tests
 - Multiple regression analysis
+
+You can preview the Visualization_ANOVA_ANCOVA-html-file [here](https://htmlpreview.github.io/?https://github.com/Arl-cloud/R-course/blob/main/Visualization_ANOVA_ANCOVA.html)
+
+This file includes:
+- Data transformation
+- Visualization (ggplot2)
+- T-test
+- ANOVA
+- ANCOVA
+
