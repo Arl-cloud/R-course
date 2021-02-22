@@ -25,3 +25,10 @@ This file includes:
 - Calculation and visualization of missing values
 - Identification of auxiliary variables (based on correlations and Cohen's d)
 
+You can preview the Multipleimputation_convergence_regression-html-file [here](https://htmlpreview.github.io/?https://github.com/Arl-cloud/R-course/blob/main/Multipleimputation_convergence_regression.html)
+
+This file includes:
+- Multiple Imputation 
+- Assessment of convergence (trace plots)
+- regression analyses
+
