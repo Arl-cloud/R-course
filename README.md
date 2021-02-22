@@ -1,6 +1,6 @@
 # R-course
 
-NOTICE: all descriptions of the R code are written in German, as the university course was held in German. All file were written in R Markdown and printed as html files.
+EXPLANATORY NOTE: all descriptions of the R code are written in German, as the university course was held in German. All file were written in R Markdown and printed as html files.
 
 You can preview the Centering_multipleregesstion-html-file [here](https://htmlpreview.github.io/?https://github.com/Arl-cloud/R-course/blob/main/Centering_multipleregression.html)
 
