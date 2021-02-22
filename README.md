@@ -19,3 +19,9 @@ This file includes:
 - ANOVA
 - ANCOVA
 
+You can preview the Missingvalues_auxiliaryvaribles-html-file [here](https://htmlpreview.github.io/?https://github.com/Arl-cloud/R-course/blob/main/Missingvalues_auxiliaryvariables.html)
+
+This file includes:
+- Calculation and visualization of missing values
+- Identification of auxiliary variables (based on correlations and Cohen's d)
+
