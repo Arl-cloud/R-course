@@ -32,3 +32,11 @@ This file includes:
 - Assessment of convergence (trace plots)
 - regression analyses
 
+
+You can preview the CFA_goodnessoffit_SEM_ANCOVA-html-file [here](https://htmlpreview.github.io/?https://github.com/Arl-cloud/R-course/blob/main/CFA_goodnessoffit_SEM_ANCOVA.html)
+
+This file includes:
+- Confirmatory Factor Analyses
+- Goodness of fit measures (CFI, RMSEA, SRMR)
+- Specification of a structual equation model
+- ANCOVA
